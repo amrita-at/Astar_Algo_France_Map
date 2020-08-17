@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1591372495 source:c:\users\amrita tiwari\c workspace\c_astar_project_amrita_tiwari\status.c
+	"status.h"
+
+1591372495 c:\users\amrita tiwari\c workspace\c_astar_project_amrita_tiwari\status.h
+
+1542627891 source:c:\users\amrita tiwari\c workspace\c_astar_project_amrita_tiwari\tlist.c
+	<stdio.h>
+	<string.h>
+	"List.h"
+
+1591372495 c:\users\amrita tiwari\c workspace\c_astar_project_amrita_tiwari\list.h
+	<stdlib.h>
+	"status.h"
+
+1591386467 source:c:\users\amrita tiwari\c workspace\c_astar_project_amrita_tiwari\main.c
+	<stdio.h>
+	"list.h"
+	"map.h"
+	"string.h"
+
+1591372495 source:c:\users\amrita tiwari\c workspace\c_astar_project_amrita_tiwari\list.c
+	<stdio.h>
+	"list.h"
+
+1591386486 c:\users\amrita tiwari\c workspace\c_astar_project_amrita_tiwari\map.h
+	<stdlib.h>
+	"status.h"
+	"list.h"
+
+1591386480 source:c:\users\amrita tiwari\c workspace\c_astar_project_amrita_tiwari\map.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"map.h"
+	"list.h"
+
